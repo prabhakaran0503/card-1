@@ -1,0 +1,31 @@
+*{
+	margin:0;
+	padding:0;
+  	box-sizing:border-box;
+  }
+  
+  p{
+	  text-align:center;}
+  h1 { 
+		color:black;
+		
+		padding:15px;
+		width:90%;
+	 }
+img{ 
+			width:80%;
+			
+	 }
+button {
+			margin : 30px;
+			padding:20px;
+			width:90%;
+			
+}
+div {
+	background-color:green;
+	width:30%;
+	text-align:center;
+	padding:30px;
+	margin-left:35%;
+	}	
